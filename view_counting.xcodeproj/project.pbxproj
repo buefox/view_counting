@@ -12,6 +12,8 @@
 		089A17481CC659CC009670AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 089A17461CC659CC009670AA /* Main.storyboard */; };
 		089A174A1CC659CC009670AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 089A17491CC659CC009670AA /* Assets.xcassets */; };
 		089A174D1CC659CC009670AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 089A174B1CC659CC009670AA /* LaunchScreen.storyboard */; };
+		089A17551CC65A98009670AA /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089A17541CC65A98009670AA /* ViewController2.swift */; };
+		089A17571CC65EF4009670AA /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089A17561CC65EF4009670AA /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		089A17491CC659CC009670AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		089A174C1CC659CC009670AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		089A174E1CC659CC009670AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		089A17541CC65A98009670AA /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		089A17561CC65EF4009670AA /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				089A17421CC659CC009670AA /* AppDelegate.swift */,
 				089A17441CC659CC009670AA /* ViewController.swift */,
+				089A17541CC65A98009670AA /* ViewController2.swift */,
+				089A17561CC65EF4009670AA /* ViewController3.swift */,
 				089A17461CC659CC009670AA /* Main.storyboard */,
 				089A17491CC659CC009670AA /* Assets.xcassets */,
 				089A174B1CC659CC009670AA /* LaunchScreen.storyboard */,
@@ -138,6 +144,8 @@
 			files = (
 				089A17451CC659CC009670AA /* ViewController.swift in Sources */,
 				089A17431CC659CC009670AA /* AppDelegate.swift in Sources */,
+				089A17571CC65EF4009670AA /* ViewController3.swift in Sources */,
+				089A17551CC65A98009670AA /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
